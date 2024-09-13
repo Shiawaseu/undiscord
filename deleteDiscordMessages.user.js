@@ -5,9 +5,10 @@
 // @author          victornpb
 // @homepageURL     https://github.com/victornpb/undiscord
 // @supportURL      https://github.com/victornpb/undiscord/discussions
+// @match           https://discord.com/app
+// @match           https://discord.com/channels/*
 // @match           https://*.discord.com/app
 // @match           https://*.discord.com/channels/*
-// @match           https://*.discord.com/login
 // @license         MIT
 // @namespace       https://github.com/victornpb/deleteDiscordMessages
 // @icon            https://victornpb.github.io/undiscord/images/icon128.png
